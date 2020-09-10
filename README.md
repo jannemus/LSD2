@@ -28,7 +28,7 @@ Soon to be uploaded.
 If you find our code helpful in your research or work, please cite our paper.
 
 ```
-@InProceedings{Mustaniemi_2019_WACV,
+@InProceedings{Mustaniemi_2020_BMVC,
   author = {Mustaniemi, Janne and Kannala, Juho and Matas, Jiri and Särkkä, Simo and Heikkilä, Janne},
   title = {LSD_2 - Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs},
   booktitle = {The 31st British Machine Vision Virtual Conference (BMVC)},
