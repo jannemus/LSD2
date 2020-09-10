@@ -1,0 +1,1 @@
+Put weights (LSD2_ft.hdf5 / LSD2.hdf5) to this folder.
